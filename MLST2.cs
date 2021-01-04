@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace NET_M2 {
     class MLST2 {
@@ -27,6 +28,14 @@ namespace NET_M2 {
                 }
 
                 Console.WriteLine();
+            }
+        }
+
+        public void Fase3() {
+            for (; ; ) {
+                Console.Clear(); 
+                Console.WriteLine(DateTime.Now.ToLocalTime()); 
+                Thread.Sleep(1000); 
             }
         }
     }

@@ -15,8 +15,8 @@ namespace NET_M2 {
 
             MLST2 e2 = new MLST2();
             //e2.Fase1(5);
-            e2.Fase2(5);
-
+            //e2.Fase2(5);
+            e2.Fase3();
             Console.ReadKey();
         }
     }
