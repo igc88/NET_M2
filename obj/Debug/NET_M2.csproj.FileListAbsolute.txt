@@ -1,0 +1,7 @@
+C:\Users\Iago\source\repos\igc88\NET_M2\bin\Debug\NET_M2.exe.config
+C:\Users\Iago\source\repos\igc88\NET_M2\bin\Debug\NET_M2.exe
+C:\Users\Iago\source\repos\igc88\NET_M2\bin\Debug\NET_M2.pdb
+C:\Users\Iago\source\repos\igc88\NET_M2\obj\Debug\NET_M2.csprojAssemblyReference.cache
+C:\Users\Iago\source\repos\igc88\NET_M2\obj\Debug\NET_M2.csproj.CoreCompileInputs.cache
+C:\Users\Iago\source\repos\igc88\NET_M2\obj\Debug\NET_M2.exe
+C:\Users\Iago\source\repos\igc88\NET_M2\obj\Debug\NET_M2.pdb
